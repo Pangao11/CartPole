@@ -22,6 +22,7 @@ Ensure you have the following installed:
    ```bash
    git clone https://github.com/Pangao11/CartPole.git
 2. Running the Program
-Execute the training script to start training the agent:
   ```bash
   python CartPole.py
+   
+
